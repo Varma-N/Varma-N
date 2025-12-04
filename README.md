@@ -123,6 +123,16 @@ A focused engineer who builds practical, end-to-end solutions to real-world chal
   </a>
 </p>
 
+---
 
+### ⚠️ Wait… this is *not* the end!
+
+There's a little surprise waiting for you below 👇  
+Keep scrolling to see the *mysterious creature* roaming through my contributions…
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Varma-N/Varma-N/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 <p align="center">⭐ Thanks for visiting my profile!</p>
+
