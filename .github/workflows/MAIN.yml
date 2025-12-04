@@ -5,6 +5,9 @@ on:
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write     # ← REQUIRED so actions can push
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -12,18 +15,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Generate the snake
-      - uses: Platane/snk@v3
-        id: snake
+      # Generate snake animations
+      - name: Generate snake
+        uses: Platane/snk@v3
         with:
           github_user_name: Varma-N
           outputs: |
-            dist/github-contribution-grid-snake.gif
             dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.gif
 
-      - run: git status
-
-      # Push the generated files to the output branch
+      # Deploy generated snake to the output branch
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
         with:
