@@ -5,21 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=800&lines=Data+Engineer;Software+Engineer;Python+Dev;Web+Dev;Building+Intelligent+Systems;Engineering+Data+from+Edge+to+Cloud;Architecting+Full-Stack+Solutions;Turning+Ideas+into+Code" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/madan-gopal-varma-nandi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Varma-N">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://varma-portfolio-plum.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/NANDI_MADAN_GOPAL_VARMA/">
-    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 <!-- =================== ABOUT ME =================== -->
@@ -102,6 +87,42 @@ A focused engineer who builds practical, end-to-end solutions to real-world chal
     <img src="https://img.shields.io/badge/Visit_My_LeetCode_Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
+
+## My digital Footprints ↓
+<p align="center">
+  <a href="https://linkedin.com/in/madan-gopal-varma-nandi">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" />
+  </a>
+  
+  <a href="https://github.com/Varma-N">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+    
+  <a href="https://leetcode.com/u/NANDI_MADAN_GOPAL_VARMA/">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" />
+  </a>
+
+  <a href="https://stackoverflow.com/users/31562009/nandi-madan-gopal-varma">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
+  </a>
+  
+  <a href="https://www.hackerrank.com/profile/gopalvarma1135">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  </a>
+  
+  <a href="https://www.hackerearth.com/@gopalvarma1135/">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="hackerearth" height="30" width="40" />
+  </a>
+  
+  <a href="https://www.hackerearth.com/@gopalvarma1135/">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+  </a>
+  
+  <a href="https://varma-portfolio-plum.vercel.app/">
+     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vine.svg" alt="Portfolio" height="30" width="40" />
+  </a>
+</p>
+
 
 
 <p align="center">⭐ Thanks for visiting my profile!</p>
