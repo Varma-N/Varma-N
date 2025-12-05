@@ -28,8 +28,13 @@ A focused engineer who builds practical, end-to-end solutions to real-world chal
 
 <!-- =================== GITHUB STATS =================== -->
 
-### Github Stats
-[![GitHub Streak](https://github-readme-streak-stats-ten-chi.vercel.app?user=Varma-N&theme=green-nur)](https://git.io/streak-stats)
+## Github Stats
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-ten-chi.vercel.app?user=Varma-N&theme=green-nur" alt="GitHub Streak">
+  </a>
+</p>
+
 <!-- =================== TECH STACK =================== -->
 
 ## When I code, I rely on
@@ -68,7 +73,7 @@ A focused engineer who builds practical, end-to-end solutions to real-world chal
 ---
 
 <!-- =================== LEETCODE SECTION =================== -->
-## 🧩 LeetCode Progress
+## LeetCode Progress
 
   <!-- 50-Days Badge-->
 <p align="center">
@@ -108,7 +113,7 @@ A focused engineer who builds practical, end-to-end solutions to real-world chal
 
 ---
 
-## My digital Footprints ↓
+### My digital Footprints ↓
 
 <p align="center">
   <a href="https://linkedin.com/in/madan-gopal-varma-nandi">
