@@ -1,16 +1,27 @@
 <!-- =================== HEADER =================== -->
+<p align="center"><a href="https://varma-portfolio-plum.vercel.app/"><img alt="Hello, I'm Varma." src="assets/GitHub_Header.png" /></a></p>
 
-<h1 align="center">Hi 👋, I'm NANDI MADAN GOPAL VARMA</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=800&lines=Data+Engineer;Software+Engineer;Python+Dev;Web+Dev;Building+Intelligent+Systems;Engineering+Data+from+Edge+to+Cloud;Architecting+Full-Stack+Solutions;Turning+Ideas+into+Code" alt="Typing SVG" />
+  <strong style="font-size:28px;">I'm passionate 🡇</strong>
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=800&lines=Data+Engineer;Python+Dev;Web+Dev" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <strong style="font-size:28px;">I do 🡇</strong>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Intelligent+Systems;Engineering+Data+from+Edge+to+Cloud;Turning+Ideas+into+Code" alt="Typing SVG" />
+</p>
+
+
 
 <!-- =================== ABOUT ME =================== -->
 
-## 🧑‍💻 About Me
-
+## About Me
 A focused engineer who builds practical, end-to-end solutions to real-world challenges. My work centers on transforming complex problems into intuitive systems, whether through data-driven automation, intelligent monitoring tools, or user-centric applications. I approach every project with ownership, precision, and a commitment to delivering measurable impact.
 
 ---
@@ -56,6 +67,33 @@ A focused engineer who builds practical, end-to-end solutions to real-world chal
 
 ---
 
+<!-- =================== LEETCODE SECTION =================== -->
+## 🧩 LeetCode Progress
+
+  <!-- 50-Days Badge-->
+<p align="center">
+  <img 
+    src="assets/50 days leetcode.gif" 
+    alt="LeetCode 50 Days Badge" 
+    width="180"
+  />
+</p>
+  
+<p align="center">
+  <img 
+    src="https://leetcard.jacoblin.cool/NANDI_MADAN_GOPAL_VARMA?ext=heatmap&theme=dark"
+    alt="LeetCode Activity"
+    width="450"
+  />  
+
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/NANDI_MADAN_GOPAL_VARMA/">
+    <img src="https://img.shields.io/badge/Visit_My_LeetCode_Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
+
 <!-- =================== PROJECTS =================== -->
 
 ## 🚀 Featured Projects
@@ -70,25 +108,8 @@ A focused engineer who builds practical, end-to-end solutions to real-world chal
 
 ---
 
-<!-- =================== LEETCODE SECTION =================== -->
-
-## 🧩 LeetCode Progress
-
-  - **Problems Solved:** 95  
-  - Easy: 43  
-  - Medium: 39  
-  - Hard: 13  
-- **Max Streak:** 31 days  
-- **Current Streak:** 4 days
-  
-
-<p align="center">
-  <a href="https://leetcode.com/u/NANDI_MADAN_GOPAL_VARMA/">
-    <img src="https://img.shields.io/badge/Visit_My_LeetCode_Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-</p>
-
 ## My digital Footprints ↓
+
 <p align="center">
   <a href="https://linkedin.com/in/madan-gopal-varma-nandi">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" />
@@ -125,14 +146,13 @@ A focused engineer who builds practical, end-to-end solutions to real-world chal
 
 ---
 
-### ⚠️ Wait… this is *not* the end!
+### ✨ A final touch before you go…
 
-There's a little surprise waiting for you below 👇  
-Keep scrolling to see the *mysterious creature* roaming through my contributions…
+Enjoy this little animated surprise that follows my GitHub journey 🐍👇
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Varma-N/Varma-N/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 <p align="center">⭐ Thanks for visiting my profile!</p>
-
+  
