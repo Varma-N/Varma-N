@@ -78,9 +78,14 @@ A focused engineer who builds practical, end-to-end solutions to real-world chal
   <!-- 50-Days Badge-->
 <p align="center">
   <img 
-    src="assets/50 days leetcode.gif" 
-    alt="LeetCode 50 Days Badge" 
-    width="180"
+    src="https://assets.leetcode.com/static_assets/others/2550.gif" 
+    alt="LeetCode 50 Days Badge - 2025" 
+    width="275"
+  />
+  <img 
+    src="https://assets.leetcode.com/static_assets/others/50.gif" 
+    alt="LeetCode 50 Days Badge - 2026" 
+    width="275"
   />
 </p>
   
