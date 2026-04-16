@@ -119,40 +119,50 @@ A focused engineer who builds practical, end-to-end solutions to real-world chal
 ---
 
 ### My digital Footprints ↓
-
-<p align="center">
-  <a href="https://linkedin.com/in/madan-gopal-varma-nandi">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" />
-  </a>
-  
-  <a href="https://github.com/Varma-N">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
-    
-  <a href="https://leetcode.com/u/NANDI_MADAN_GOPAL_VARMA/">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" />
-  </a>
-
-  <a href="https://stackoverflow.com/users/31562009/nandi-madan-gopal-varma">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
-  </a>
-  
-  <a href="https://www.hackerrank.com/profile/gopalvarma1135">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-  
-  <a href="https://www.hackerearth.com/@gopalvarma1135/">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="hackerearth" height="30" width="40" />
-  </a>
-  
-  <a href="https://www.hackerearth.com/@gopalvarma1135/">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
-  
-  <a href="https://varma-portfolio-plum.vercel.app/">
-     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vine.svg" alt="Portfolio" height="30" width="40" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://linkedin.com/in/madan-gopal-varma-nandi" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Varma-N" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://leetcode.com/u/NANDI_MADAN_GOPAL_VARMA/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://stackoverflow.com/users/31562009/nandi-madan-gopal-varma" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.hackerrank.com/profile/gopalvarma1135" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.hackerearth.com/@gopalvarma1135/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.kaggle.com/gopalvarma1135" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://varma-portfolio-plum.vercel.app/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vine.svg" alt="Portfolio" height="30" width="40" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
