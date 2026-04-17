@@ -87,6 +87,11 @@ A focused engineer who builds practical, end-to-end solutions to real-world chal
     alt="LeetCode 50 Days Badge - 2026" 
     width="200"
   />
+  <img 
+    src="https://assets.leetcode.com/static_assets/others/100.gif" 
+    alt="LeetCode 100 Days Badge - 2026" 
+    width="200"
+  />
 </p>
   
 <p align="center">
