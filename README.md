@@ -21,7 +21,6 @@ Currently, I work extensively with **Google Cloud Platform (BigQuery)** to drive
   <strong>Core Languages & Databases</strong><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
 <p align="center">
