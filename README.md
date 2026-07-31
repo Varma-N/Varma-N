@@ -55,9 +55,10 @@ I actively practice data structures, algorithms, and advanced SQL. Here is my re
 
 <p align="center">
   <img src="https://assets.leetcode.com/static_assets/others/Quest_data.gif" alt="LeetCode Top SQL" height="170" /> <br>
+  <img src ="https://assets.leetcode.com/static_assets/others/2026_200.gif" alt="Leetcode 200 Days in 2026" height="120" />
   <img src="https://assets.leetcode.com/static_assets/others/100.gif" alt="LeetCode 100 Days Badge" height="120" />
   <img src="https://assets.leetcode.com/static_assets/others/50.gif" alt="LeetCode 50 Days Badge" height="120" />
-  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode 50 Days Badge" height="120" />
+  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode 50 Days Badge" height="120" /> 
 </p>
   
 <p align="center">
