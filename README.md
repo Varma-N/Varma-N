@@ -5,17 +5,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=800&lines=Data+Engineering;Cloud+Architecture+(GCP);Building+Scalable+ETL+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=800&lines=Data+Engineering;Cloud+Computing;Building+Resilient+Solutions;Automation" alt="Typing SVG" />
 </p>
 
 ## 👨‍💻 About Me
-I am a **Data Analyst actively transitioning into Data Engineering**. I have a strong foundation in Python, SQL, and building end-to-end ETL pipelines, and I am deeply passionate about engineering scalable data infrastructure from the ground up.
-
-Currently, I work extensively with **Google Cloud Platform (BigQuery)** to drive analytical insights. I believe in being transparent about my learning journey: while I can confidently architect data pipelines and visualizations today, I am actively expanding my stack to master orchestration tools and distributed computing to become a complete Data Engineer. I approach every challenge with honesty, ownership, and an obsession with automation.
+As a technology professional, I am driven by a strong commitment to continuous learning and problem-solving. I am deeply passionate about building robust, resilient solutions that create meaningful impact and deliver measurable business value through automation. I bring adaptability, ownership, and a relentless drive to grow with every challenge I take on, constantly looking for ways to engineer better outcomes and translate my expanding knowledge into high-impact results.
 
 ---
 
-## 🛠️ My Data Toolkit
+## 🛠️ My Toolkit
 
 <p align="center">
   <strong>Core Languages & Databases</strong><br>
