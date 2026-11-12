@@ -52,6 +52,8 @@ As a technology professional, I am driven by a strong commitment to continuous l
 I actively practice data structures, algorithms, and advanced SQL. Here is my recent progress:
 
 <p align="center">
+  
+  <img src="https://assets.leetcode.com/static_assets/others/365_new.gif" alt="LeetCode 365 days" height="170" /> <br>
   <img src="https://assets.leetcode.com/static_assets/others/Quest_data.gif" alt="LeetCode Top SQL" height="170" /> <br>
   <img src ="https://assets.leetcode.com/static_assets/others/2026_200.gif" alt="Leetcode 200 Days in 2026" height="120" />
   <img src="https://assets.leetcode.com/static_assets/others/100.gif" alt="LeetCode 100 Days Badge" height="120" />
